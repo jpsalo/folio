@@ -5,7 +5,7 @@ theme = "prologue"
 
 [params]
   name = "jp"
-  description = "Hyperspace Engineer"
+  description = "dev"
   copyright = "Untitled."
 
 [[params.social]]
