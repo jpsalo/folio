@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:jpsalo/jpsalo.github.io
 	branch = master
+[submodule "themes/prologue"]
+	path = themes/prologue
+	url = https://github.com/sethmacleod/prologue.git
