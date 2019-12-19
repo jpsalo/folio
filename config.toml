@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Prologue"
+title = "bar"
 baseurl = "http://example.org/"
 theme = "prologue"
 
@@ -11,12 +11,17 @@ theme = "prologue"
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/jpsalo"
 
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "#"
+  link = "mailto:jpsalo@zoho.com"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/salojp/"
 
 # Portfolio column one
 
