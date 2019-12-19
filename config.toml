@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "folio"
+theme = "m10c"
+
+[params]
+  author = "jp"
+  description = "Noob is just a state of mind"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/jpsalo"
+ [[params.social]]
+  name = "linkedIn"
+  url = "https://www.linkedin.com/in/salojp/"
