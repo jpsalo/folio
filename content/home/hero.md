@@ -31,6 +31,6 @@ hero_media = "user-2.jpg"
   text_color_light = false
 
 +++
-## I'm **JP**
+## I'm **JP**!
 
-Let me briefly introduce my work.
+I'm a UX Developer. Let me briefly introduce my work.
