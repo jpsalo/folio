@@ -69,8 +69,11 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
-I have been a programmer since 2010 and specialize in frontend development. I have solid, hands-on experience in product development for the web, backed by CS, HCI and cognitive science studies. I strive for elegant and future-proof solutions which are both efficient and intuitive to use.
+JP is a usability enthusiast who focuses on optimizing every aspect of product development, from the end user experience to the code architecture.
 
-Working at large and small companies and in projects of different scale and age – past year as a project lead – has provided me insight into team dynamics and business reasoning behind the code. I enjoy being part of the early-stage prototyping with pen and paper, but most satisfaction I get when I finish building e.g. a complex glitch-free mobile-first UI.
+JP is a programmer since 2010 and specialize in frontend development. He has solid, hands-on experience in product development for the web, backed by CS, HCI and cognitive science studies. JP strives for elegant and future-proof solutions which are both efficient and intuitive to use.
+
+Working at large and small companies and in projects of different scale and age has provided JP insight into team dynamics and business reasoning behind the code. He enjoys being part of the early-stage prototyping with pen and paper and gets most satisfaction from building complex glitch-free UIs.
