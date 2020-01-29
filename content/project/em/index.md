@@ -1,6 +1,6 @@
 ---
-title: extended mind
-summary: extended mind is a minimal task and note organizer that helps you find and keep your focus
+title: Extended Mind
+summary: Extended Mind is a minimal task and note organizer that helps you find and keep your focus
 date: "2015-10-30T00:00:00Z"
 share: false
 profile: false
@@ -13,6 +13,8 @@ image:
   focal_point: Smart
 
 ---
+
+![Example image](/img/em-1.jpg)
 
 You spend some of your best working hours focused on the software you use and not on the things you want to get done. Extended Mind provides a super simple, super fast, distraction-free replacement to cluttered office workflow tools. You can access Extended Mind from all of your devices to instantly manage your notes and tasks. This frees you to do what you do best: connect, create and collaborate.
 
