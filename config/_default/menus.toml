@@ -10,7 +10,7 @@
 
 [[main]]
   name = "About"
-  url = "/authors/admin"
+  url = "/authors/jp"
   weight = 20
 
 [[main]]
