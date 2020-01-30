@@ -1,3 +1,9 @@
 a[href^="/project/em/"].card-image {
   padding: 15px;
 }
+
+figcaption {
+  text-align: right;
+  font-style: italic;
+  font-size: smaller;
+}
