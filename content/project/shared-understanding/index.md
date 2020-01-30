@@ -1,5 +1,6 @@
 ---
 title: Shared Understanding of the User Experience
+subtitle: A Case Study of Collaboration Between Developers and Designers
 summary: A Case Study of Collaboration Between Developers and Designers
 date: "2015-10-30T00:00:00Z"
 share: false
