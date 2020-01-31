@@ -14,7 +14,7 @@ image:
 
 ---
 
-![Example image](/img/em-1.jpg)
+![Extended Mind](/img/em-1.jpg)
 
 You spend some of your best working hours focused on the software you use and not on the things you want to get done. Extended Mind provides a super simple, super fast, distraction-free replacement to cluttered office workflow tools. You can access Extended Mind from all of your devices to instantly manage your notes and tasks. This frees you to do what you do best: connect, create and collaborate.
 

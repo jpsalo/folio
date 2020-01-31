@@ -21,9 +21,43 @@ In detail, we investigate _the effort to find peers at the ‘right time’ by c
 # Needfinding
 Our study followed human-centered design process (Norman, 2013, Ch. 6): _"Make observations on the intended target population, generate ideas, produce prototypes and test them."_
 
-Stakeholder map represents all the people involved and is an additional verification that the student is at the core of the study, and thus students are the population we interviewed and the persona we based the PACT analysis (TODO: Table 1).
+Stakeholder map represents all the people involved and is an additional verification that the student is at the core of the study, and thus students are the population we interviewed and the persona we based the PACT analysis.
 
 {{< figure src="/img/stdy-qrp-stakeholder-map.svg" caption="Stakeholder map of people who gain or deliver value" >}}
+
+***
+**Person**: Student, 20-50 years
+***
+
+ - University level degree
+ - She can be either a new student from lower education or someone with experience from previous degrees or work etc.
+ - Most likely able to communicate in English
+ - Studies full-time or part-time while working, taking care of children for example
+
+***
+**Activity**: Learning & Information Seeking ⇔ Information Giving
+***
+
+Based on the initial observation, people study couple of hours and take a break hourly. Lot of people are also short on time. Therefore the lecture and workshop schedules might conflict with other duties.
+
+It’s essentially social activity: a student helps peer who is then receiving information. The purpose is to keep the group small, ideally between two people.
+
+They can study the same course but basically they share knowledge of a common subject so that, for example, the information receiver is able to continue to finish her assignments.
+
+***
+**Context**: UbiKampus (co-working space)
+***
+
+ - Since it’s a library, people have to behave accordingly
+ - People have roles but they are equal
+ - Within the library opening hours
+
+***
+**Technology**: Web / Mobile App (interface)
+***
+
+ - Location: QR code
+ - Peers: Chat
 
 ## Interview & Observation findings
 The interview was done for five participants—three women and two men. They all study different things, one Bachelor’s student and four Master’s students. Their library use varies from daily to _"not that often"_. All participants study also in other libraries, such as Kaisa.
@@ -31,6 +65,7 @@ The interview was done for five participants—three women and two men. They all
 Interview and observation focused mainly on library use and study environment and the combined findings suggest that people study, seek information and use computers. Finding a place to study or other students happens primarily by visually browsing the space and walking around, causing noises—even though it’s a library and speaking out loud is discouraged, it’s not as quiet as one would expect. People also don’t take breaks (leave their place) as regularly as they said in the interviews. It looks like that, in the evening in Kaisa house, group rooms could be utilized more efficiently, so ad hoc study groups could be potentially created there, in addition to Kumpula campus.
 
 ## Brainstorming, Design critique & More Brainstorming
+
 Even though the main idea and motivation for the system are simple, the end product is in many ways very different from the draft produced after brainstorming sessions—the goal for the sessions were to develop ideas without technical restrictions and time limitations, which were then converged into the end product.
 
 Major design difference between the draft and end product related to connecting the system to physical space (via UbiKampus) and creating profiles for students. UbiKampus connection was intended to use bluetooth indoor navigation and message bus. Users were envisioned to have two profiles: information seeker and receiver, both profiles sharing same pool of predetermined topics of interest (i.e. in the context of Full Stack web development) in order to trivialize the complexity of matchmaking. In case of a match, the system would have notified users and potentially suggested free group study room.
