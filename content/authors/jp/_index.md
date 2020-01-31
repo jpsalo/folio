@@ -78,5 +78,11 @@ JP is a programmer since 2010 and specialize in frontend development. He has sol
 
 Working at large and small companies and in projects of different scale and age has provided JP insight into team dynamics and business reasoning behind the code.
 
-JP believes that the people who use the product can't be an afterthought—they shoul be at the core of the work. He understands the value of a genuine connection with the users and knows that the best result is achieved when everyone is as close to the people as possible. He enjoys being part of the early-stage prototyping with pen and paper and gets most satisfaction from building complex glitch-free UIs.
+JP believes that the users of a service can't be an afterthought—these people should be at the core of the work. He understands the value of a genuine connection with the users and knows that the best result is achieved when everyone is as close to the people as possible. He enjoys being part of the early-stage prototyping with pen and paper and gets most satisfaction from building complex glitch-free UIs.
 
+JP specializes in User-Centered Design, including:
+
+- Finding out people's need with interviews and observation
+- Prototype-oriented design and implementation
+- Crafting, conducting and analysing usability studies
+- Building interactive systems
