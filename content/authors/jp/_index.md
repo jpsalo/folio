@@ -76,4 +76,7 @@ JP is a usability enthusiast who focuses on optimizing every aspect of product d
 
 JP is a programmer since 2010 and specialize in frontend development. He has solid, hands-on experience in product development for the web, backed by CS, HCI and cognitive science studies. JP strives for elegant and future-proof solutions which are both efficient and intuitive to use.
 
-Working at large and small companies and in projects of different scale and age has provided JP insight into team dynamics and business reasoning behind the code. He understands the value of a genuine connection with the users and believes that the best result is achieved when everyone is as close to the people as possible. He enjoys being part of the early-stage prototyping with pen and paper and gets most satisfaction from building complex glitch-free UIs.
+Working at large and small companies and in projects of different scale and age has provided JP insight into team dynamics and business reasoning behind the code.
+
+JP believes that the people who use the product can't be an afterthought—they shoul be at the core of the work. He understands the value of a genuine connection with the users and knows that the best result is achieved when everyone is as close to the people as possible. He enjoys being part of the early-stage prototyping with pen and paper and gets most satisfaction from building complex glitch-free UIs.
+
