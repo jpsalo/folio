@@ -3,7 +3,11 @@ a[href^="/project/em/"].card-image {
 }
 
 figcaption {
-  text-align: right;
+  text-align: center;
   font-style: italic;
   font-size: smaller;
+}
+
+.figure_img img {
+  max-width: 300px;
 }
