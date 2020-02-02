@@ -23,6 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Should the user's education and interests be displayed?
 display_education: false
+display_organizations: false
 
 interests:
 - Artificial Intelligence
