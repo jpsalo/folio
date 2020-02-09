@@ -1,4 +1,5 @@
 ---
+title: me
 type: me
 # Display name
 name: Jukka-Pekka Salo
