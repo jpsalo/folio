@@ -5,6 +5,7 @@ summary: A Case Study of Collaboration Between Developers and Designers
 date: "2015-10-30T00:00:00Z"
 share: false
 profile: false
+type: project
 
 # Optional external URL for project (replaces project detail page).
 external_link:

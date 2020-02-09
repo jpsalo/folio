@@ -5,6 +5,7 @@ summary: Discovering interesting stories from Hacker News
 date: "2019-05-08T00:00:00Z"
 share: false
 profile: false
+type: project
 
 # Optional external URL for project (replaces project detail page).
 external_link:
