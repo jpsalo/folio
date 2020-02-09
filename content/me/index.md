@@ -1,4 +1,5 @@
 ---
+type: me
 # Display name
 name: Jukka-Pekka Salo
 avatar_image: "user-full.png"
@@ -73,7 +74,7 @@ user_groups:
 
 ---
 
-JP is a usability enthusiast who focuses on optimizing every aspect of product development, from the end user experience to the code architecture.
+JP is a usability enthusiast who focuses on optimizing every aspect of product development, from the end user experience to the code architecture. Currently he is finding ways to create the best designer-developer handoff.
 
 JP is a programmer since 2010 and specialize in frontend development. He has solid, hands-on experience in product development for the web, backed by CS, HCI and cognitive science studies. JP strives for elegant and future-proof solutions which are both efficient and intuitive to use.
 
