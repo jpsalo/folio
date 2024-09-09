@@ -1,7 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:jpsalo/jpsalo.github.io
-	branch = master
-[submodule "themes/academia"]
-	path = themes/academia
-	url = git@github.com:themefisher/academia-hugo.git
