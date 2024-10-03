@@ -1,5 +1,6 @@
 ---
-
+import Navigation from "../components/Navigation.astro";
+const pageTitle = "Folio";
 ---
 
 <html lang="en">
@@ -8,11 +9,12 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <title>folio</title>
+    <title>{pageTitle}</title>
   </head>
   <body>
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-    <h1>folio</h1>
+    <Navigation />
+    <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+      <h1>Home</h1>
+    </div>
   </body>
 </html>
