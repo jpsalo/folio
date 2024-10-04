@@ -17,25 +17,10 @@ const { pageTitle } = Astro.props;
           (!("theme" in localStorage) &&
             window.matchMedia("(prefers-color-scheme: dark)").matches))
       ) {
-        console.log("dark", window.matchMedia("(prefers-color-scheme: dark)"));
         document.documentElement.classList.add("dark");
       } else {
         document.documentElement.classList.remove("dark");
       }
-
-      document
-        .getElementById("theme-selector")
-        ?.addEventListener("click", () => {
-          if (localStorage.theme === "dark") {
-            localStorage.theme = "light";
-            document.documentElement.classList.remove("dark");
-          } else {
-            localStorage.theme = "dark";
-            document.documentElement.classList.add("dark");
-          }
-        });
-      // TODO: Whenever the user explicitly chooses to respect the OS preference
-      //localStorage.removeItem("theme");
     </script>
   </head>
   <body class="min-h-screen dark:bg-slate-600">
